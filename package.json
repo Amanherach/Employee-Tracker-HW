@@ -1,26 +1,27 @@
 {
-    "name": "employee-tracker",
-    "version": "1.0.0",
-    "description": "",
-    "main": "employee-tracker.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node employee-tracker.js"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kingsleyramos/Employee-Tracker.git"
-    },
-    "author": "Kingsley Ramos",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/kingsleyramos/Employee-Tracker/issues"
-    },
-    "homepage": "https://github.com/kingsleyramos/Employee-Tracker#readme",
-    "dependencies": {
-      "console.table": "^0.10.0",
-      "inquirer": "^7.0.1",
-      "mysql": "^2.17.1",
-      "promise-mysql": "^4.1.1"
-    }
-  }
+  "name": "Employee-Tracker-HW",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achaudhry93/Employee-Tracker-HW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/achaudhry93/Employee-Tracker-HW"
+  },
+  "homepage": "https://github.com/achaudhry93/Employee-Tracker-HW",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {}
+}
